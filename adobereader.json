@@ -4,10 +4,12 @@
   "version": "19.0.0.160",
   "architecture": {
     "64bit": {
-      "url": "ftp://localhost/AdobeReader_19.0.0.160.exe#/dl.7z"
+      "url": "ftp://localhost/AdobeReader_19.0.0.160.exe#/dl.7z"，
+      "hash":"174c14107a0f933e1ba848b3f8499e81b43e4b66b2da369a2085d8b998e81cc7"
     },
     "32bit": {
-      "url": "ftp://localhost/AdobeReader_19.0.0.160.exe#/dl.7z"
+      "url": "ftp://localhost/AdobeReader_19.0.0.160.exe#/dl.7z",
+      "hash":"174c14107a0f933e1ba848b3f8499e81b43e4b66b2da369a2085d8b998e81cc7"
     }
   },
   "extract_dir": "Files/7-Zip",
